@@ -1,44 +1,55 @@
 # PortalCraft
 
-**Play Minecraft in the Source engine.** PortalCraft is a mod for **Portal (2007)** that brings Minecraft-style worlds, building, crafting, and survival into Portal.
+**Play Minecraft in the Source engine.** PortalCraft is an experimental mod for **Portal (2007)** that brings Minecraft-style building and gameplay into Portal.
 
-Explore generated worlds, visit the Nether and the End, encounter mobs and villages, or play the original Portal campaign with Minecraft building.
+> [!WARNING]
+> **Very buggy and unfinished.** Many features and mechanics are **not implemented yet**, and existing features may be incomplete or unreliable. Expect bugs, broken behavior, and rough edges. This is an experimental pre-release for testing and feedback.
+
+[**Download the experimental build**](https://github.com/XxHackerBoixX/PortalCraft/releases) · [Report a bug](https://github.com/XxHackerBoixX/PortalCraft/issues)
+
+## Project status
+
+PortalCraft is a work in progress. It explores Minecraft-style worlds, block building, crafting, and survival inside Portal, alongside the original campaign with building enabled. These systems are still being developed; their presence does not mean they are complete or work reliably.
+
+Many Minecraft features are missing, and this build does not offer complete Minecraft feature parity. Please try it with the expectations of an early experimental mod.
 
 ## Download
 
-[**Download the latest PortalCraft release**](https://github.com/XxHackerBoixX/PortalCraft/releases/latest)
+Open [Releases](https://github.com/XxHackerBoixX/PortalCraft/releases) and download **`PortalCraft-2026-10-08.zip`** from the experimental preview's **Assets** section.
 
-Download `PortalCraft-2026-10-08.zip` from the release's **Assets** section. This repository distributes the packaged Windows mod; the playable files are in the release ZIP. GitHub's automatically generated “Source code” archives contain this repository's documentation, not the game package.
+The named ZIP contains the playable Windows mod. GitHub's automatically generated **Source code** archives contain this repository's documentation only. This repository currently distributes the packaged mod; the mod's source code is not included.
 
 ## Requirements
 
-- Windows
-- Portal (2007), also known as Portal 1, installed through Steam
-- Steam running when you launch the mod
+- **Windows**
+- **Portal (2007)**, also known as Portal 1, installed through Steam
+- **Steam running** when you launch the mod
 
-Portal is required and is not included.
+You need your own installed copy of Portal. Portal is not included.
 
 ## Install and play
 
-1. Download the release ZIP.
+1. Download the mod ZIP from [Releases](https://github.com/XxHackerBoixX/PortalCraft/releases).
 2. Extract the entire **PortalCraft** folder anywhere on your computer.
 3. Open the extracted folder and double-click **Play PortalCraft.cmd**.
 4. The launcher finds Portal through Steam and opens PortalCraft's title menu.
 
-If the launcher cannot find Portal, open PowerShell in the extracted PortalCraft folder and supply its installation path:
+If the launcher cannot find Portal, open PowerShell in the extracted PortalCraft folder and supply your installation path:
 
 ```powershell
 .\Launch-PortalCraft.ps1 -PortalPath "D:\Games\Steam\steamapps\common\Portal"
 ```
 
-Worlds, saves, and settings are stored in the `portalcraft` folder. **Back up that folder before replacing it with a newer release.**
+Worlds, saves, and settings are stored in the `portalcraft` folder. **Back up that folder before updating or replacing your installation.**
 
-## What you can play
+## Finding your way around
 
-- **Play Game:** open your worlds, create a new world, or play the guided tutorial.
-- **Portal Chapters:** play the original Portal campaign with PortalCraft building enabled.
-- **Creative and Survival:** switch modes with F4.
-- **Help & Options:** adjust settings, view controls, and change your skin.
+These are the menu options and modes described by the included build. Gameplay is experimental and incomplete.
+
+- **Play Game:** your worlds, Create New World, and the guided tutorial.
+- **Portal Chapters:** the original Portal campaign with PortalCraft building enabled.
+- **Creative / Survival:** switch modes with F4.
+- **Help & Options:** settings, controls, and Change Skin.
 
 ## Controls
 
@@ -67,7 +78,17 @@ Worlds, saves, and settings are stored in the `portalcraft` folder. **Back up th
 - **“game files are missing or damaged”:** extract the ZIP again into a fresh folder.
 - **Heavy stutter on NVIDIA cards with G-SYNC:** the included README recommends disabling G-SYNC or setting it to full-screen only in NVIDIA Control Panel.
 
-## Release integrity
+## Feedback and bug reports
+
+Bug reports help make the unfinished parts easier to track. Search [existing issues](https://github.com/XxHackerBoixX/PortalCraft/issues) before opening a new one, and include:
+
+- The release date or ZIP filename.
+- What you were doing and the steps needed to reproduce the problem.
+- What you expected to happen and what actually happened.
+- Screenshots or a short video, if useful.
+- Your Windows version and graphics card for launch or performance problems.
+
+## File verification
 
 SHA-256 for `PortalCraft-2026-10-08.zip`:
 
