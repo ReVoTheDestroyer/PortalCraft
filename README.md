@@ -5,7 +5,7 @@
 > [!WARNING]
 > **Very buggy and unfinished.** Many features and mechanics are **not implemented yet**, and existing features may be incomplete or unreliable. Expect bugs, broken behavior, and rough edges. This is an experimental pre-release for testing and feedback.
 
-[**Download the experimental build**](https://github.com/XxHackerBoixX/PortalCraft/releases) · [Report a bug](https://github.com/XxHackerBoixX/PortalCraft/issues)
+[**Download the experimental build**](https://github.com/ReVoTheDestroyer/PortalCraft/releases) · [Report a bug](https://github.com/ReVoTheDestroyer/PortalCraft/issues) · [VirusTotal report](#file-verification)
 
 ## Gameplay showcase
 
@@ -58,7 +58,7 @@ Many Minecraft features are missing, and this build does not offer complete Mine
 
 ## Download
 
-Open [Releases](https://github.com/XxHackerBoixX/PortalCraft/releases) and download **`PortalCraft-2026-10-08.zip`** from the experimental preview's **Assets** section.
+Open [Releases](https://github.com/ReVoTheDestroyer/PortalCraft/releases) and download **`PortalCraft-2026-10-08.zip`** from the experimental preview's **Assets** section.
 
 The named ZIP contains the playable Windows mod. GitHub's automatically generated **Source code** archives contain this repository's documentation only. This repository currently distributes the packaged mod; the mod's source code is not included.
 
@@ -72,7 +72,7 @@ You need your own installed copy of Portal. Portal is not included.
 
 ## Install and play
 
-1. Download the mod ZIP from [Releases](https://github.com/XxHackerBoixX/PortalCraft/releases).
+1. Download the mod ZIP from [Releases](https://github.com/ReVoTheDestroyer/PortalCraft/releases).
 2. Extract the entire **PortalCraft** folder anywhere on your computer.
 3. Open the extracted folder and double-click **Play PortalCraft.cmd**.
 4. The launcher finds Portal through Steam and opens PortalCraft's title menu.
@@ -123,7 +123,7 @@ These are the menu options and modes described by the included build. Gameplay i
 
 ## Feedback and bug reports
 
-Bug reports help make the unfinished parts easier to track. Search [existing issues](https://github.com/XxHackerBoixX/PortalCraft/issues) before opening a new one, and include:
+Bug reports help make the unfinished parts easier to track. Search [existing issues](https://github.com/ReVoTheDestroyer/PortalCraft/issues) before opening a new one, and include:
 
 - The release date or ZIP filename.
 - What you were doing and the steps needed to reproduce the problem.
@@ -132,6 +132,10 @@ Bug reports help make the unfinished parts easier to track. Search [existing iss
 - Your Windows version and graphics card for launch or performance problems.
 
 ## File verification
+
+**[View the VirusTotal report for this release ZIP](https://www.virustotal.com/gui/file/281e7261e688e02b755a46abf0f02d0d2ef566d0028f7fb721cb5862fefc2c2b)** · Submitted October 8, 2026.
+
+VirusTotal warned that this multi-file ZIP exceeds its archive inspection limit, so this report does **not** verify every file inside the mod. Scan results can change and are not a guarantee of safety.
 
 SHA-256 for `PortalCraft-2026-10-08.zip`:
 
