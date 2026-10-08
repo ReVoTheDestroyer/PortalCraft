@@ -1,11 +1,13 @@
-# PortalCraft
+# PortalCraft — Minecraft in Portal (2007)
 
-**Play Minecraft in the Source engine.** PortalCraft is an experimental mod for **Portal (2007)** that brings Minecraft-style building and gameplay into Portal.
+**Minecraft-style building meets the portal gun.** PortalCraft is an experimental **Portal (2007)** mod that brings block building, generated worlds, and portal gameplay to **Valve’s Source engine**. Play on **Windows** using your own Steam installation of **Portal 1**.
 
 > [!WARNING]
 > **Very buggy and unfinished.** Many features and mechanics are **not implemented yet**, and existing features may be incomplete or unreliable. Expect bugs, broken behavior, and rough edges. This is an experimental pre-release for testing and feedback.
 
-[**Download the experimental build**](https://github.com/ReVoTheDestroyer/PortalCraft/releases) · [Report a bug](https://github.com/ReVoTheDestroyer/PortalCraft/issues) · [VirusTotal report](#file-verification)
+[**Download the experimental build**](https://github.com/ReVoTheDestroyer/PortalCraft/releases/tag/2026-10-08) · [Watch gameplay](#gameplay-showcase) · [Install and play](#install-and-play)
+
+[Report a bug](https://github.com/ReVoTheDestroyer/PortalCraft/issues) · [VirusTotal report](#file-verification) · [Follow development on TikTok](https://www.tiktok.com/@wedoinit2341)
 
 ## Gameplay showcase
 
