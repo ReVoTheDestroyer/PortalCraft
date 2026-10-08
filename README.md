@@ -7,6 +7,49 @@
 
 [**Download the experimental build**](https://github.com/XxHackerBoixX/PortalCraft/releases) · [Report a bug](https://github.com/XxHackerBoixX/PortalCraft/issues)
 
+## Gameplay showcase
+
+Clips and screenshots from [@wedoinit2341’s development posts](https://www.tiktok.com/@wedoinit2341). Footage may show earlier builds. **PortalCraft is still very buggy, and many features remain unimplemented.**
+
+| Generated worlds | Playing with portals | Test chamber building |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/75c43540-d10a-452f-a6ce-fd39d5d6ac32" alt="Portal gun and a blue portal in a grassy Minecraft-style world" width="220"> | <img src="https://github.com/user-attachments/assets/76c4be67-5a97-4032-a455-940562fb7e71" alt="Blue and orange portals beside a cake in PortalCraft" width="220"> | <img src="https://github.com/user-attachments/assets/4238b552-7502-42e0-8e15-33e01496e96f" alt="Wooden blocks being placed inside a Portal test chamber" width="220"> |
+
+Expand a clip below to watch it on GitHub.
+
+<details>
+<summary><strong>Generated worlds and the portal gun — 25 seconds</strong></summary>
+
+Exploring procedurally generated terrain with the portal gun.
+
+https://github.com/user-attachments/assets/e254eb4e-c070-4d5a-85c7-56546959f577
+
+[Watch the original TikTok](https://www.tiktok.com/@wedoinit2341/video/7690437699680914702)
+
+</details>
+
+<details>
+<summary><strong>Playing with portals — 30 seconds</strong></summary>
+
+Portal gameplay in a Minecraft-style world.
+
+https://github.com/user-attachments/assets/098c1910-02eb-42f8-82fd-8623bac2991c
+
+[Watch the original TikTok](https://www.tiktok.com/@wedoinit2341/video/7693749525701217549)
+
+</details>
+
+<details>
+<summary><strong>Building in a Portal test chamber — 30 seconds</strong></summary>
+
+Placing blocks inside one of Portal’s test chambers.
+
+https://github.com/user-attachments/assets/32441c72-207a-4e42-8078-f7373a4c7bc6
+
+[Watch the original TikTok](https://www.tiktok.com/@wedoinit2341/video/7692156885239139598)
+
+</details>
+
 ## Project status
 
 PortalCraft is a work in progress. It explores Minecraft-style worlds, block building, crafting, and survival inside Portal, alongside the original campaign with building enabled. These systems are still being developed; their presence does not mean they are complete or work reliably.
