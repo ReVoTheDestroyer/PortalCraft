@@ -13,15 +13,19 @@
 
 Development screenshots; scenes and features may differ from the October 8, 2026 download. **The mod is still very buggy and many features remain unimplemented.**
 
-| Portals in a block world | Inside a Portal test chamber |
-| :---: | :---: |
-| [<img src="docs/screenshots/portals-in-block-world.jpg" alt="Blue and orange portals on a stone wall, with grassy terrain visible through them." width="420">](docs/screenshots/portals-in-block-world.jpg) | [<img src="docs/screenshots/companion-cube-test-chamber.jpg" alt="A Companion Cube in a Portal test chamber, with the Minecraft-style hotbar visible." width="420">](docs/screenshots/companion-cube-test-chamber.jpg) |
-| **Village overlook** | **Jungle landscape** |
-| [<img src="docs/screenshots/village-overlook.jpg" alt="Houses, crops, and a stone tower viewed from above with the portal gun." width="420">](docs/screenshots/village-overlook.jpg) | [<img src="docs/screenshots/jungle-landscape.jpg" alt="Tall jungle trees and dense foliage with the portal gun equipped." width="420">](docs/screenshots/jungle-landscape.jpg) |
-| **Mesa landscape** | **Crops and item frames** |
-| [<img src="docs/screenshots/mesa-landscape.jpg" alt="Layered orange terrain, cacti, and dead bushes." width="420">](docs/screenshots/mesa-landscape.jpg) | [<img src="docs/screenshots/crops-and-item-frames.jpg" alt="Rows of crops marked by item frames and lit by torches." width="420">](docs/screenshots/crops-and-item-frames.jpg) |
+### Portals into infinity
 
-[**Explore all 16 screenshots →**](docs/screenshots/README.md)
+[![Nested blue portals framing Steve at night, with a diamond pickaxe in hand.](docs/screenshots/recursive-portals-at-night.jpg)](docs/screenshots/recursive-portals-at-night.jpg)
+
+| High above the jungle | Village from above |
+| :---: | :---: |
+| [<img src="docs/screenshots/jungle-canopy-overlook.jpg" alt="Towering jungle trees, layered canopy, and a river below, viewed with the portal gun." width="420">](docs/screenshots/jungle-canopy-overlook.jpg) | [<img src="docs/screenshots/village-overlook.jpg" alt="Village roofs, a stone tower, and crops spread across a grassy hillside." width="420">](docs/screenshots/village-overlook.jpg) |
+| **Woodland mansion** | **Sandstone, glass, and torchlight** |
+| [<img src="docs/screenshots/woodland-mansion.jpg" alt="A large woodland mansion rising above the surrounding forest." width="420">](docs/screenshots/woodland-mansion.jpg) | [<img src="docs/screenshots/sandstone-and-glass-hall.jpg" alt="Tall rows of glass windows and sandstone pillars, lined with torches." width="420">](docs/screenshots/sandstone-and-glass-hall.jpg) |
+| **A burst of purple in the End** | **Sunset with a personality core** |
+| [<img src="docs/screenshots/ender-dragon-purple-burst.jpg" alt="Purple rays surrounding the Ender Dragon above the arena towers." width="420">](docs/screenshots/ender-dragon-purple-burst.jpg) | [<img src="docs/screenshots/sunset-with-personality-core.jpg" alt="Orange sunset over a forest and mountain, with a Portal personality core in hand and development structures overhead." width="420">](docs/screenshots/sunset-with-personality-core.jpg) |
+
+[**Explore all 12 selected screenshots →**](docs/screenshots/README.md)
 
 ## Gameplay showcase
 
