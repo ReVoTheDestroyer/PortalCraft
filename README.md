@@ -5,9 +5,23 @@
 > [!WARNING]
 > **Very buggy and unfinished.** Many features and mechanics are **not implemented yet**, and existing features may be incomplete or unreliable. Expect bugs, broken behavior, and rough edges. This is an experimental pre-release for testing and feedback.
 
-[**Download the experimental build**](https://github.com/ReVoTheDestroyer/PortalCraft/releases/tag/2026-10-08) · [Watch gameplay](#gameplay-showcase) · [Install and play](#install-and-play)
+[**Download the experimental build**](https://github.com/ReVoTheDestroyer/PortalCraft/releases/tag/2026-10-08) · [Screenshots](#screenshots) · [Watch gameplay](#gameplay-showcase) · [Install and play](#install-and-play)
 
 [Report a bug](https://github.com/ReVoTheDestroyer/PortalCraft/issues) · [VirusTotal report](#file-verification) · [Follow development on TikTok](https://www.tiktok.com/@wedoinit2341)
+
+## Screenshots
+
+Development screenshots; scenes and features may differ from the October 8, 2026 download. **The mod is still very buggy and many features remain unimplemented.**
+
+| Portals in a block world | Inside a Portal test chamber |
+| :---: | :---: |
+| [<img src="docs/screenshots/portals-in-block-world.jpg" alt="Blue and orange portals on a stone wall, with grassy terrain visible through them." width="420">](docs/screenshots/portals-in-block-world.jpg) | [<img src="docs/screenshots/companion-cube-test-chamber.jpg" alt="A Companion Cube in a Portal test chamber, with the Minecraft-style hotbar visible." width="420">](docs/screenshots/companion-cube-test-chamber.jpg) |
+| **Village overlook** | **Jungle landscape** |
+| [<img src="docs/screenshots/village-overlook.jpg" alt="Houses, crops, and a stone tower viewed from above with the portal gun." width="420">](docs/screenshots/village-overlook.jpg) | [<img src="docs/screenshots/jungle-landscape.jpg" alt="Tall jungle trees and dense foliage with the portal gun equipped." width="420">](docs/screenshots/jungle-landscape.jpg) |
+| **Mesa landscape** | **Crops and item frames** |
+| [<img src="docs/screenshots/mesa-landscape.jpg" alt="Layered orange terrain, cacti, and dead bushes." width="420">](docs/screenshots/mesa-landscape.jpg) | [<img src="docs/screenshots/crops-and-item-frames.jpg" alt="Rows of crops marked by item frames and lit by torches." width="420">](docs/screenshots/crops-and-item-frames.jpg) |
+
+[**Explore all 16 screenshots →**](docs/screenshots/README.md)
 
 ## Gameplay showcase
 
@@ -62,7 +76,7 @@ Many Minecraft features are missing, and this build does not offer complete Mine
 
 Open [Releases](https://github.com/ReVoTheDestroyer/PortalCraft/releases) and download **`PortalCraft-2026-10-08.zip`** from the experimental preview's **Assets** section.
 
-The named ZIP contains the playable Windows mod. GitHub's automatically generated **Source code** archives contain this repository's documentation only. This repository currently distributes the packaged mod; the mod's source code is not included.
+The named ZIP contains the playable Windows mod. GitHub's automatically generated **Source code** archives contain this repository's files at the selected tag. Download the named ZIP above to play the mod. This repository currently distributes the packaged mod; the mod's source code is not included.
 
 ## Requirements
 
