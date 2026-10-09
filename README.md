@@ -13,19 +13,19 @@
 
 Development screenshots; scenes and features may differ from the October 8, 2026 download. **The mod is still very buggy and many features remain unimplemented.**
 
-### Portals into infinity
+### Portals at night
 
-[![Nested blue portals framing Steve at night, with a diamond pickaxe in hand.](docs/screenshots/recursive-portals-at-night.jpg)](docs/screenshots/recursive-portals-at-night.jpg)
+[![Steve seen through linked portals at night, holding a diamond pickaxe.](docs/screenshots/recursive-portals-at-night.jpg)](docs/screenshots/recursive-portals-at-night.jpg)
 
-| High above the jungle | Village from above |
+| Jungle | Village |
 | :---: | :---: |
-| [<img src="docs/screenshots/jungle-canopy-overlook.jpg" alt="Towering jungle trees, layered canopy, and a river below, viewed with the portal gun." width="420">](docs/screenshots/jungle-canopy-overlook.jpg) | [<img src="docs/screenshots/village-overlook.jpg" alt="Village roofs, a stone tower, and crops spread across a grassy hillside." width="420">](docs/screenshots/village-overlook.jpg) |
-| **Woodland mansion** | **Sandstone, glass, and torchlight** |
-| [<img src="docs/screenshots/woodland-mansion.jpg" alt="A large woodland mansion rising above the surrounding forest." width="420">](docs/screenshots/woodland-mansion.jpg) | [<img src="docs/screenshots/sandstone-and-glass-hall.jpg" alt="Tall rows of glass windows and sandstone pillars, lined with torches." width="420">](docs/screenshots/sandstone-and-glass-hall.jpg) |
-| **A burst of purple in the End** | **Sunset with a personality core** |
-| [<img src="docs/screenshots/ender-dragon-purple-burst.jpg" alt="Purple rays surrounding the Ender Dragon above the arena towers." width="420">](docs/screenshots/ender-dragon-purple-burst.jpg) | [<img src="docs/screenshots/sunset-with-personality-core.jpg" alt="Orange sunset over a forest and mountain, with a Portal personality core in hand and development structures overhead." width="420">](docs/screenshots/sunset-with-personality-core.jpg) |
+| [<img src="docs/screenshots/jungle-canopy-overlook.jpg" alt="Jungle trees and a river viewed from above with the portal gun." width="420">](docs/screenshots/jungle-canopy-overlook.jpg) | [<img src="docs/screenshots/village-overlook.jpg" alt="Village houses, a stone tower, and crops viewed from above." width="420">](docs/screenshots/village-overlook.jpg) |
+| **Woodland mansion** | **Sandstone building** |
+| [<img src="docs/screenshots/woodland-mansion.jpg" alt="Woodland mansion surrounded by forest." width="420">](docs/screenshots/woodland-mansion.jpg) | [<img src="docs/screenshots/sandstone-and-glass-hall.jpg" alt="Sandstone building with glass windows and torches." width="420">](docs/screenshots/sandstone-and-glass-hall.jpg) |
+| **Ender Dragon death effect** | **Sunset** |
+| [<img src="docs/screenshots/ender-dragon-purple-burst.jpg" alt="Purple light around the Ender Dragon during its death effect." width="420">](docs/screenshots/ender-dragon-purple-burst.jpg) | [<img src="docs/screenshots/sunset-with-personality-core.jpg" alt="Sunset with a Portal personality core held in the foreground." width="420">](docs/screenshots/sunset-with-personality-core.jpg) |
 
-[**Explore all 12 selected screenshots →**](docs/screenshots/README.md)
+[**More screenshots**](docs/screenshots/README.md)
 
 ## Gameplay showcase
 
