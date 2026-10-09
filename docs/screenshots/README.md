@@ -1,114 +1,83 @@
 # PortalCraft screenshot gallery
 
-Development screenshots of **PortalCraft**, an experimental Minecraft-style mod for **Portal (2007)** in Valve’s Source engine.
+Twelve standout development screenshots of **PortalCraft** — Minecraft-style worlds and portal gameplay inside **Portal (2007)**, running on Valve's **Source engine**.
 
 > [!WARNING]
 > **PortalCraft is still very buggy and unfinished, and many features remain unimplemented.** These screenshots span development builds and may differ from the downloadable October 8, 2026 build. A feature appearing in a screenshot does not mean it is complete or reliable.
 
 [Back to PortalCraft](../../README.md) · [Download the experimental build](https://github.com/ReVoTheDestroyer/PortalCraft/releases/tag/2026-10-08) · [Watch gameplay clips](../../README.md#gameplay-showcase)
 
-Select any image to open it at full size.
+Select any image to open it at full size. These are original gameplay screenshots, without visual retouching.
 
-## Portals and test chambers
+## Portals into infinity
 
-### Portals in a block world
+Nested blue portals framing Steve at night, with a diamond pickaxe in hand.
+
+[![Nested blue portals framing Steve at night, with a diamond pickaxe in hand.](recursive-portals-at-night.jpg)](recursive-portals-at-night.jpg)
+
+## Two portals, one block world
 
 Blue and orange portals on a stone wall, with grassy terrain visible through them.
 
 [![Blue and orange portals on a stone wall, with grassy terrain visible through them.](portals-in-block-world.jpg)](portals-in-block-world.jpg)
 
-### Back in the test chamber
+## High above the jungle
 
-A Companion Cube in a Portal test chamber, with the Minecraft-style hotbar visible.
+Towering jungle trees, layered canopy, and a river below, viewed with the portal gun.
 
-[![A Companion Cube in a Portal test chamber, with the Minecraft-style hotbar visible.](companion-cube-test-chamber.jpg)](companion-cube-test-chamber.jpg)
+[![Towering jungle trees, layered canopy, and a river below, viewed with the portal gun.](jungle-canopy-overlook.jpg)](jungle-canopy-overlook.jpg)
 
-### A Companion Cube and two portals
+## Village from above
 
-A Companion Cube selected beside blue and orange portals in a block-built test area.
+Village roofs, a stone tower, and crops spread across a grassy hillside.
 
-[![A Companion Cube selected beside blue and orange portals in a block-built test area.](companion-cube-and-portals.jpg)](companion-cube-and-portals.jpg)
+[![Village roofs, a stone tower, and crops spread across a grassy hillside.](village-overlook.jpg)](village-overlook.jpg)
 
-## Worlds and landscapes
-
-### Village overlook
-
-Houses, crops, and a stone tower viewed from above with the portal gun.
-
-[![Houses, crops, and a stone tower viewed from above with the portal gun.](village-overlook.jpg)](village-overlook.jpg)
-
-### Jungle landscape
-
-Tall jungle trees and dense foliage with the portal gun equipped.
-
-[![Tall jungle trees and dense foliage with the portal gun equipped.](jungle-landscape.jpg)](jungle-landscape.jpg)
-
-### Mesa landscape
-
-Layered orange terrain, cacti, and dead bushes.
-
-[![Layered orange terrain, cacti, and dead bushes.](mesa-landscape.jpg)](mesa-landscape.jpg)
-
-### Woodland mansion
+## Woodland mansion
 
 A large woodland mansion rising above the surrounding forest.
 
 [![A large woodland mansion rising above the surrounding forest.](woodland-mansion.jpg)](woodland-mansion.jpg)
 
-### Mountain and valley
+## Sandstone, glass, and torchlight
 
-A steep grassy mountain above a wooded valley and pond.
+Tall rows of glass windows and sandstone pillars, lined with torches.
 
-[![A steep grassy mountain above a wooded valley and pond.](mountain-and-valley.jpg)](mountain-and-valley.jpg)
+[![Tall rows of glass windows and sandstone pillars, lined with torches.](sandstone-and-glass-hall.jpg)](sandstone-and-glass-hall.jpg)
 
-### Snowy forest
+## The red-and-gold hall
 
-Snow-covered ground and spruce trees with the portal gun equipped.
+A long torchlit hall with red-and-gold carpet, windows, and decorative mob heads.
 
-[![Snow-covered ground and spruce trees with the portal gun equipped.](snowy-forest.jpg)](snowy-forest.jpg)
+[![A long torchlit hall with red-and-gold carpet, windows, and decorative mob heads.](red-and-gold-hall.jpg)](red-and-gold-hall.jpg)
 
-### Above the snowy canopy
+## Beneath the stone arches
 
-A snowy forest canopy seen from above.
+Tall stone pillars and arches looming over trees, grass, and water.
 
-[![A snowy forest canopy seen from above.](snowy-canopy.jpg)](snowy-canopy.jpg)
+[![Tall stone pillars and arches looming over trees, grass, and water.](towering-stone-arches.jpg)](towering-stone-arches.jpg)
 
-### Hillside overlook
+## Mountain and valley
 
-The portal gun overlooking blocky hills, trees, and water.
+A steep grassy mountain above a wooded valley and a bright blue pond.
 
-[![The portal gun overlooking blocky hills, trees, and water.](hillside-overlook.jpg)](hillside-overlook.jpg)
+[![A steep grassy mountain above a wooded valley and a bright blue pond.](mountain-and-valley.jpg)](mountain-and-valley.jpg)
 
-### A valley with a wooden build
+## Sunset with a personality core
 
-A small wooden structure among grassy terraces, trees, and stone cliffs.
+Orange sunset over a forest and mountain, with a Portal personality core in hand and development structures overhead.
 
-[![A small wooden structure among grassy terraces, trees, and stone cliffs.](tutorial-valley.jpg)](tutorial-valley.jpg)
+[![Orange sunset over a forest and mountain, with a Portal personality core in hand and development structures overhead.](sunset-with-personality-core.jpg)](sunset-with-personality-core.jpg)
 
-## Building details
+## Face to face with the dragon
 
-### Bookshelves and an enchanting table
+A close view of the Ender Dragon above the central structure and obsidian pillars.
 
-An enchanting table surrounded by bookshelves, viewed with the portal gun.
+[![A close view of the Ender Dragon above the central structure and obsidian pillars.](ender-dragon-close-encounter.jpg)](ender-dragon-close-encounter.jpg)
 
-[![An enchanting table surrounded by bookshelves, viewed with the portal gun.](enchanting-room.jpg)](enchanting-room.jpg)
+## A burst of purple in the End
 
-### Crops and item frames
+Purple rays surrounding the Ender Dragon above the arena towers.
 
-Rows of crops marked by item frames and lit by torches.
+[![Purple rays surrounding the Ender Dragon above the arena towers.](ender-dragon-purple-burst.jpg)](ender-dragon-purple-burst.jpg)
 
-[![Rows of crops marked by item frames and lit by torches.](crops-and-item-frames.jpg)](crops-and-item-frames.jpg)
-
-## Other worlds
-
-### Nether cavern
-
-Red, blocky cavern terrain viewed with flint and steel selected.
-
-[![Red, blocky cavern terrain viewed with flint and steel selected.](nether-cavern.jpg)](nether-cavern.jpg)
-
-### The End
-
-An Ender Dragon above the central structure, with obsidian pillars and Endermen nearby.
-
-[![An Ender Dragon above the central structure, with obsidian pillars and Endermen nearby.](ender-dragon.jpg)](ender-dragon.jpg)
