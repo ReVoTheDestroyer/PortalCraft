@@ -1,83 +1,59 @@
 # PortalCraft screenshot gallery
 
-Twelve standout development screenshots of **PortalCraft** — Minecraft-style worlds and portal gameplay inside **Portal (2007)**, running on Valve's **Source engine**.
+Development screenshots from **PortalCraft**, a mod for **Portal (2007)**.
 
 > [!WARNING]
 > **PortalCraft is still very buggy and unfinished, and many features remain unimplemented.** These screenshots span development builds and may differ from the downloadable October 8, 2026 build. A feature appearing in a screenshot does not mean it is complete or reliable.
 
 [Back to PortalCraft](../../README.md) · [Download the experimental build](https://github.com/ReVoTheDestroyer/PortalCraft/releases/tag/2026-10-08) · [Watch gameplay clips](../../README.md#gameplay-showcase)
 
-Select any image to open it at full size. These are original gameplay screenshots, without visual retouching.
+Click an image to view it full size.
 
-## Portals into infinity
+## Portals at night
 
-Nested blue portals framing Steve at night, with a diamond pickaxe in hand.
+[![Steve seen through linked portals at night, holding a diamond pickaxe.](recursive-portals-at-night.jpg)](recursive-portals-at-night.jpg)
 
-[![Nested blue portals framing Steve at night, with a diamond pickaxe in hand.](recursive-portals-at-night.jpg)](recursive-portals-at-night.jpg)
+## Portals in a block world
 
-## Two portals, one block world
+[![Blue and orange portals on a stone wall in a grassy world.](portals-in-block-world.jpg)](portals-in-block-world.jpg)
 
-Blue and orange portals on a stone wall, with grassy terrain visible through them.
+## Jungle
 
-[![Blue and orange portals on a stone wall, with grassy terrain visible through them.](portals-in-block-world.jpg)](portals-in-block-world.jpg)
+[![Jungle trees and a river viewed from above with the portal gun.](jungle-canopy-overlook.jpg)](jungle-canopy-overlook.jpg)
 
-## High above the jungle
+## Village
 
-Towering jungle trees, layered canopy, and a river below, viewed with the portal gun.
-
-[![Towering jungle trees, layered canopy, and a river below, viewed with the portal gun.](jungle-canopy-overlook.jpg)](jungle-canopy-overlook.jpg)
-
-## Village from above
-
-Village roofs, a stone tower, and crops spread across a grassy hillside.
-
-[![Village roofs, a stone tower, and crops spread across a grassy hillside.](village-overlook.jpg)](village-overlook.jpg)
+[![Village houses, a stone tower, and crops viewed from above.](village-overlook.jpg)](village-overlook.jpg)
 
 ## Woodland mansion
 
-A large woodland mansion rising above the surrounding forest.
+[![Woodland mansion surrounded by forest.](woodland-mansion.jpg)](woodland-mansion.jpg)
 
-[![A large woodland mansion rising above the surrounding forest.](woodland-mansion.jpg)](woodland-mansion.jpg)
+## Sandstone building
 
-## Sandstone, glass, and torchlight
+[![Sandstone building with glass windows and torches.](sandstone-and-glass-hall.jpg)](sandstone-and-glass-hall.jpg)
 
-Tall rows of glass windows and sandstone pillars, lined with torches.
+## Hallway
 
-[![Tall rows of glass windows and sandstone pillars, lined with torches.](sandstone-and-glass-hall.jpg)](sandstone-and-glass-hall.jpg)
+[![Hallway with red carpet, torches, and mob heads.](red-and-gold-hall.jpg)](red-and-gold-hall.jpg)
 
-## The red-and-gold hall
+## Stone arches
 
-A long torchlit hall with red-and-gold carpet, windows, and decorative mob heads.
+[![Stone arches behind trees and water.](towering-stone-arches.jpg)](towering-stone-arches.jpg)
 
-[![A long torchlit hall with red-and-gold carpet, windows, and decorative mob heads.](red-and-gold-hall.jpg)](red-and-gold-hall.jpg)
+## Mountain
 
-## Beneath the stone arches
+[![Mountain beside a forest and pond.](mountain-and-valley.jpg)](mountain-and-valley.jpg)
 
-Tall stone pillars and arches looming over trees, grass, and water.
+## Sunset
 
-[![Tall stone pillars and arches looming over trees, grass, and water.](towering-stone-arches.jpg)](towering-stone-arches.jpg)
+[![Sunset with a Portal personality core held in the foreground.](sunset-with-personality-core.jpg)](sunset-with-personality-core.jpg)
 
-## Mountain and valley
+## Ender Dragon
 
-A steep grassy mountain above a wooded valley and a bright blue pond.
+[![Ender Dragon above the central structure in the End.](ender-dragon-close-encounter.jpg)](ender-dragon-close-encounter.jpg)
 
-[![A steep grassy mountain above a wooded valley and a bright blue pond.](mountain-and-valley.jpg)](mountain-and-valley.jpg)
+## Ender Dragon death effect
 
-## Sunset with a personality core
-
-Orange sunset over a forest and mountain, with a Portal personality core in hand and development structures overhead.
-
-[![Orange sunset over a forest and mountain, with a Portal personality core in hand and development structures overhead.](sunset-with-personality-core.jpg)](sunset-with-personality-core.jpg)
-
-## Face to face with the dragon
-
-A close view of the Ender Dragon above the central structure and obsidian pillars.
-
-[![A close view of the Ender Dragon above the central structure and obsidian pillars.](ender-dragon-close-encounter.jpg)](ender-dragon-close-encounter.jpg)
-
-## A burst of purple in the End
-
-Purple rays surrounding the Ender Dragon above the arena towers.
-
-[![Purple rays surrounding the Ender Dragon above the arena towers.](ender-dragon-purple-burst.jpg)](ender-dragon-purple-burst.jpg)
+[![Purple light around the Ender Dragon during its death effect.](ender-dragon-purple-burst.jpg)](ender-dragon-purple-burst.jpg)
 
