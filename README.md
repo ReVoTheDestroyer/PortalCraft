@@ -5,13 +5,13 @@
 > [!WARNING]
 > **Very buggy and unfinished.** Many features and mechanics are **not implemented yet**, and existing features may be incomplete or unreliable. Expect bugs, broken behavior, and rough edges. This is an experimental pre-release for testing and feedback.
 
-[**Download the experimental build**](https://github.com/ReVoTheDestroyer/PortalCraft/releases/tag/2026-10-08) · [Screenshots](#screenshots) · [Watch gameplay](#gameplay-showcase) · [Install and play](#install-and-play)
+[**Download the experimental build**](https://github.com/ReVoTheDestroyer/PortalCraft/releases/tag/2026-10-11) · [Screenshots](#screenshots) · [Watch gameplay](#gameplay-showcase) · [Install and play](#install-and-play)
 
 [Report a bug](https://github.com/ReVoTheDestroyer/PortalCraft/issues) · [VirusTotal report](#file-verification) · [Follow development on TikTok](https://www.tiktok.com/@wedoinit2341)
 
 ## Screenshots
 
-Development screenshots; scenes and features may differ from the October 8, 2026 download. **The mod is still very buggy and many features remain unimplemented.**
+Development screenshots; scenes and features may differ from the October 11, 2026 download. **The mod is still very buggy and many features remain unimplemented.**
 
 ### Portals at night
 
@@ -78,7 +78,7 @@ Many Minecraft features are missing, and this build does not offer complete Mine
 
 ## Download
 
-Open [Releases](https://github.com/ReVoTheDestroyer/PortalCraft/releases) and download **`PortalCraft-2026-10-08.zip`** from the experimental preview's **Assets** section.
+Open [Releases](https://github.com/ReVoTheDestroyer/PortalCraft/releases) and download **`PortalCraft-2026-10-11.zip`** from the experimental preview's **Assets** section.
 
 The named ZIP contains the playable Windows mod. GitHub's automatically generated **Source code** archives contain this repository's files at the selected tag. Download the named ZIP above to play the mod. This repository currently distributes the packaged mod; the mod's source code is not included.
 
@@ -153,14 +153,14 @@ Bug reports help make the unfinished parts easier to track. Search [existing iss
 
 ## File verification
 
-**[View the VirusTotal report for this release ZIP](https://www.virustotal.com/gui/file/281e7261e688e02b755a46abf0f02d0d2ef566d0028f7fb721cb5862fefc2c2b)** · Submitted October 8, 2026.
+**[View the VirusTotal report for this release ZIP](https://www.virustotal.com/gui/file/7dae163bc672c7d5c02f3d43461dcd8968de7256fd2358a7079707926d65f2af?nocache=1)** · Submitted October 11, 2026.
 
-VirusTotal warned that this multi-file ZIP exceeds its archive inspection limit, so this report does **not** verify every file inside the mod. Scan results can change and are not a guarantee of safety.
+VirusTotal may not inspect every file inside a ZIP this large, and scan results can change; they are not a guarantee of safety.
 
-SHA-256 for `PortalCraft-2026-10-08.zip`:
+SHA-256 for `PortalCraft-2026-10-11.zip`:
 
 ```text
-281e7261e688e02b755a46abf0f02d0d2ef566d0028f7fb721cb5862fefc2c2b
+7dae163bc672c7d5c02f3d43461dcd8968de7256fd2358a7079707926d65f2af
 ```
 
 PortalCraft is a fan project and is not affiliated with Mojang, Microsoft, or Valve.
