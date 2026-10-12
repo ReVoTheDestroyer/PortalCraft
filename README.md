@@ -5,9 +5,29 @@
 > [!WARNING]
 > **Very buggy and unfinished.** Many features and mechanics are **not implemented yet**, and existing features may be incomplete or unreliable. Expect bugs, broken behavior, and rough edges. This is an experimental pre-release for testing and feedback.
 
-[**Download the experimental build**](https://github.com/ReVoTheDestroyer/PortalCraft/releases/tag/2026-10-11b) · [Screenshots](#screenshots) · [Watch gameplay](#gameplay-showcase) · [Install and play](#install-and-play)
+[**Download the experimental build**](https://github.com/ReVoTheDestroyer/PortalCraft/releases/tag/2026-10-11b) · [The Wither Storm](#new-the-wither-storm) · [Screenshots](#screenshots) · [Watch gameplay](#gameplay-showcase) · [Install and play](#install-and-play)
 
 [Report a bug](https://github.com/ReVoTheDestroyer/PortalCraft/issues) · [VirusTotal report](#file-verification) · [Follow development on TikTok](https://www.tiktok.com/@wedoinit2341)
+
+## New: the Wither Storm
+
+The latest build adds the **Wither Storm from Minecraft: Story Mode**, along with Reuben and the Formidi-Bomb. Like the rest of PortalCraft, it is experimental and may be buggy.
+
+https://github.com/user-attachments/assets/4147267c-2860-45c8-b66d-34aada4a704d
+
+<sub>Silent clip recorded on a development build; some details may differ from the October 11, 2026 download.</sub>
+
+| Newborn | Growing | Grown |
+| :---: | :---: | :---: |
+| [<img src="docs/screenshots/wither-storm-newborn.jpg" alt="The newborn Wither Storm, three heads above a command block, surrounded by floating blocks." width="260">](docs/screenshots/wither-storm-newborn.jpg) | [<img src="docs/screenshots/wither-storm-stage-b.jpg" alt="The Wither Storm's second stage, a dark mass with glowing eyes and tendrils." width="260">](docs/screenshots/wither-storm-stage-b.jpg) | [<img src="docs/screenshots/wither-storm-stage-c.jpg" alt="The grown Wither Storm with tentacles and purple tractor beams over an island." width="260">](docs/screenshots/wither-storm-stage-c.jpg) |
+| **Command block exposed** | **Inside the Wither Storm** | **Reuben** |
+| [<img src="docs/screenshots/wither-storm-command-block-exposed.jpg" alt="The grown Wither Storm at sunset with its command block exposed between its tentacles." width="260">](docs/screenshots/wither-storm-command-block-exposed.jpg) | [<img src="docs/screenshots/wither-storm-interior.jpg" alt="A diamond sword striking the command block inside the purple interior of the Wither Storm." width="260">](docs/screenshots/wither-storm-interior.jpg) | [<img src="docs/screenshots/reuben.jpg" alt="Reuben the pig standing on a sandy island next to a Weighted Companion Cube." width="260">](docs/screenshots/reuben.jpg) |
+
+- **The Wither Storm:** spawn it with its spawn eggs (one for each stage). It is born as the Story Mode newborn and grows into bigger forms as its tractor beam eats blocks.
+- **The fight:** bring the grown storm down to half health to expose the command block inside it.
+- **Inside the Wither Storm:** get swallowed and explore its interior, rebuilt from Story Mode's episode 4.
+- **Reuben:** name a pig Reuben, or use his spawn egg. He follows you, sits when you right-click him, and has his Story Mode look and voice.
+- **Formidi-Bomb:** Story Mode's explosive.
 
 ## Screenshots
 

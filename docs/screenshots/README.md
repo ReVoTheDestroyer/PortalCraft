@@ -3,11 +3,35 @@
 Development screenshots from **PortalCraft**, a mod for **Portal (2007)**.
 
 > [!WARNING]
-> **PortalCraft is still very buggy and unfinished, and many features remain unimplemented.** These screenshots span development builds and may differ from the downloadable October 8, 2026 build. A feature appearing in a screenshot does not mean it is complete or reliable.
+> **PortalCraft is still very buggy and unfinished, and many features remain unimplemented.** These screenshots span development builds and may differ from the downloadable October 11, 2026 build. A feature appearing in a screenshot does not mean it is complete or reliable.
 
-[Back to PortalCraft](../../README.md) · [Download the experimental build](https://github.com/ReVoTheDestroyer/PortalCraft/releases/tag/2026-10-08) · [Watch gameplay clips](../../README.md#gameplay-showcase)
+[Back to PortalCraft](../../README.md) · [Download the experimental build](https://github.com/ReVoTheDestroyer/PortalCraft/releases/tag/2026-10-11b) · [Watch gameplay clips](../../README.md#gameplay-showcase)
 
 Click an image to view it full size.
+
+## The Wither Storm: newborn
+
+[<img src="wither-storm-newborn.jpg" alt="The newborn Wither Storm, three heads above a command block, surrounded by floating blocks." width="360">](wither-storm-newborn.jpg)
+
+## The Wither Storm: growing
+
+[<img src="wither-storm-stage-b.jpg" alt="The Wither Storm's second stage, a dark mass with glowing eyes and tendrils." width="360">](wither-storm-stage-b.jpg)
+
+## The Wither Storm: grown
+
+[<img src="wither-storm-stage-c.jpg" alt="The grown Wither Storm with tentacles and purple tractor beams over an island." width="360">](wither-storm-stage-c.jpg)
+
+## The Wither Storm: command block exposed
+
+[<img src="wither-storm-command-block-exposed.jpg" alt="The grown Wither Storm at sunset with its command block exposed between its tentacles." width="360">](wither-storm-command-block-exposed.jpg)
+
+## Inside the Wither Storm
+
+[<img src="wither-storm-interior.jpg" alt="A diamond sword striking the command block inside the purple interior of the Wither Storm." width="360">](wither-storm-interior.jpg)
+
+## Reuben
+
+[<img src="reuben.jpg" alt="Reuben the pig standing on a sandy island next to a Weighted Companion Cube." width="360">](reuben.jpg)
 
 ## Portals at night
 
