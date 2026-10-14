@@ -3,11 +3,35 @@
 Development screenshots from **PortalCraft**, a mod for **Portal (2007)**.
 
 > [!WARNING]
-> **PortalCraft is still very buggy and unfinished, and many features remain unimplemented.** These screenshots span development builds and may differ from the downloadable October 11, 2026 build. A feature appearing in a screenshot does not mean it is complete or reliable.
+> **PortalCraft is still very buggy and unfinished, and many features remain unimplemented.** These screenshots span development builds and may differ from the downloadable October 13, 2026 build. A feature appearing in a screenshot does not mean it is complete or reliable.
 
-[Back to PortalCraft](../../README.md) · [Download the experimental build](https://github.com/ReVoTheDestroyer/PortalCraft/releases/tag/2026-10-11b) · [Watch gameplay clips](../../README.md#gameplay-showcase)
+[Back to PortalCraft](../../README.md) · [Download the experimental build](https://github.com/ReVoTheDestroyer/PortalCraft/releases/tag/2026-10-13) · [Watch gameplay clips](../../README.md#gameplay-showcase)
 
 Click an image to view it full size.
+
+## Story Mode Visuals: farm animals
+
+[![Farm animals with Story Mode Visuals off (top) and on (bottom).](story-mode-visuals-farm.jpg)](story-mode-visuals-farm.jpg)
+
+## Story Mode Visuals: villagers and golems
+
+[![Villagers, an iron golem, a polar bear and a llama with Story Mode Visuals off (top) and on (bottom).](story-mode-visuals-village.jpg)](story-mode-visuals-village.jpg)
+
+## Story Mode Visuals: hostile mobs
+
+[![Hostile mobs at dusk with Story Mode Visuals off (top) and on (bottom).](story-mode-visuals-hostile.jpg)](story-mode-visuals-hostile.jpg)
+
+## Story Mode Visuals: sunset
+
+[![The sky at sunset with Story Mode Visuals off (top) and on (bottom).](story-mode-visuals-sunset.jpg)](story-mode-visuals-sunset.jpg)
+
+## Prismarine Colossus
+
+[![The Prismarine Colossus roaring, with three Prismarine Soldiers.](prismarine-colossus.jpg)](prismarine-colossus.jpg)
+
+## Season Two bosses
+
+[![The Giant Enderman, the Magma Golem, the Mega Snow Golem and the Admin.](season-two-bosses.jpg)](season-two-bosses.jpg)
 
 ## The Wither Storm: newborn
 

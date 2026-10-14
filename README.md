@@ -5,17 +5,36 @@
 > [!WARNING]
 > **Very buggy and unfinished.** Many features and mechanics are **not implemented yet**, and existing features may be incomplete or unreliable. Expect bugs, broken behavior, and rough edges. This is an experimental pre-release for testing and feedback.
 
-[**Download the experimental build**](https://github.com/ReVoTheDestroyer/PortalCraft/releases/tag/2026-10-11b) · [The Wither Storm](#new-the-wither-storm) · [Screenshots](#screenshots) · [Watch gameplay](#gameplay-showcase) · [Install and play](#install-and-play)
+[**Download the experimental build**](https://github.com/ReVoTheDestroyer/PortalCraft/releases/tag/2026-10-13) · [Story Mode Visuals](#new-story-mode-visuals) · [The Wither Storm](#the-wither-storm) · [Screenshots](#screenshots) · [Watch gameplay](#gameplay-showcase) · [Install and play](#install-and-play)
 
 [Report a bug](https://github.com/ReVoTheDestroyer/PortalCraft/issues) · [VirusTotal report](#file-verification) · [Follow development on TikTok](https://www.tiktok.com/@wedoinit2341)
 
-## New: the Wither Storm
+## New: Story Mode Visuals
 
-The latest build adds the **Wither Storm from Minecraft: Story Mode**, along with Reuben and the Formidi-Bomb. Like the rest of PortalCraft, it is experimental and may be buggy.
+The latest build adds **Story Mode Visuals**: switch the whole world to **Minecraft: Story Mode**'s look, and back, right from the pause menu. It also adds the bosses from Story Mode's Season Two. Like the rest of PortalCraft, it is experimental and may be buggy.
+
+https://github.com/user-attachments/assets/6f2c81bc-5e92-4a15-a0d3-df2ec931418b
+
+<sub>Silent clip.</sub>
+
+| Farm animals | Villagers and golems | Hostile mobs |
+| :---: | :---: | :---: |
+| [<img src="docs/screenshots/story-mode-visuals-farm.jpg" alt="Farm animals with Story Mode Visuals off (top) and on (bottom)." width="260">](docs/screenshots/story-mode-visuals-farm.jpg) | [<img src="docs/screenshots/story-mode-visuals-village.jpg" alt="Villagers, an iron golem, a polar bear and a llama with Story Mode Visuals off (top) and on (bottom)." width="260">](docs/screenshots/story-mode-visuals-village.jpg) | [<img src="docs/screenshots/story-mode-visuals-hostile.jpg" alt="Hostile mobs at dusk with Story Mode Visuals off (top) and on (bottom)." width="260">](docs/screenshots/story-mode-visuals-hostile.jpg) |
+| **Sunset** | **Prismarine Colossus** | **Season Two bosses** |
+| [<img src="docs/screenshots/story-mode-visuals-sunset.jpg" alt="The sky at sunset with Story Mode Visuals off (top) and on (bottom)." width="260">](docs/screenshots/story-mode-visuals-sunset.jpg) | [<img src="docs/screenshots/prismarine-colossus.jpg" alt="The Prismarine Colossus roaring, with three Prismarine Soldiers." width="260">](docs/screenshots/prismarine-colossus.jpg) | [<img src="docs/screenshots/season-two-bosses.jpg" alt="The Giant Enderman, the Magma Golem, the Mega Snow Golem and the Admin." width="260">](docs/screenshots/season-two-bosses.jpg) |
+
+- **Story Mode Visuals:** the button is on the pause menu (and in Help & Options → Settings → Options). Mobs get their Story Mode models, animations and sounds from Seasons One and Two, the sky turns into Story Mode's painted skies, and fireworks, explosions, charged creepers, Nether portals and End crystal beams get Story Mode's effects. The pictures above show it off (top) and on (bottom).
+- **Season Two bosses:** the Prismarine Colossus with its Prismarine Soldiers, the Giant Enderman, the Magma Golem, the Mega Snow Golem and the Admin, each with a spawn egg. With Story Mode Visuals on, some turn up on their own.
+- **New mobs:** baby zombies and spider jockeys spawn naturally, iron and snow golems fight hostile mobs, and a chicken named Benedict or an enderman named Soren is a little different.
+- **Also new:** barrier blocks, screenshot tools for creative, farther and thinner fog, and the whole End island in view. See the [release notes](https://github.com/ReVoTheDestroyer/PortalCraft/releases/tag/2026-10-13) for everything.
+
+## The Wither Storm
+
+PortalCraft also has the **Wither Storm from Minecraft: Story Mode**, along with Reuben and the Formidi-Bomb. Like the rest of PortalCraft, it is experimental and may be buggy.
 
 https://github.com/user-attachments/assets/4147267c-2860-45c8-b66d-34aada4a704d
 
-<sub>Silent clip recorded on a development build; some details may differ from the October 11, 2026 download.</sub>
+<sub>Silent clip recorded on a development build; some details may differ from the current download.</sub>
 
 | Newborn | Growing | Grown |
 | :---: | :---: | :---: |
@@ -31,7 +50,7 @@ https://github.com/user-attachments/assets/4147267c-2860-45c8-b66d-34aada4a704d
 
 ## Screenshots
 
-Development screenshots; scenes and features may differ from the October 11, 2026 download. **The mod is still very buggy and many features remain unimplemented.**
+Development screenshots; scenes and features may differ from the October 13, 2026 download. **The mod is still very buggy and many features remain unimplemented.**
 
 ### Portals at night
 
@@ -98,7 +117,7 @@ Many Minecraft features are missing, and this build does not offer complete Mine
 
 ## Download
 
-Open [Releases](https://github.com/ReVoTheDestroyer/PortalCraft/releases) and download **`PortalCraft-2026-10-11b-with-wither-storm.zip`** from the experimental preview's **Assets** section.
+Open [Releases](https://github.com/ReVoTheDestroyer/PortalCraft/releases) and download **`PortalCraft-2026-10-13-with-story-mode.zip`** from the experimental preview's **Assets** section.
 
 The named ZIP contains the playable Windows mod. GitHub's automatically generated **Source code** archives contain this repository's files at the selected tag. Download the named ZIP above to play the mod. This repository currently distributes the packaged mod; the mod's source code is not included.
 
@@ -173,14 +192,14 @@ Bug reports help make the unfinished parts easier to track. Search [existing iss
 
 ## File verification
 
-**[View the VirusTotal report for this release ZIP](https://www.virustotal.com/gui/file/e99138f9f4ae1f7adf3edf6c4db98fcba8ff4e13fdfaa641273946f35027fb8d?nocache=1)** · Submitted October 11, 2026.
+**[View the VirusTotal report for this release ZIP](https://www.virustotal.com/gui/file/d6188ade11c2d8961ae2bf405dc29f5dfae6d8f2c502ed8805508979d2f83501?nocache=1)** · Submitted October 14, 2026.
 
 VirusTotal may not inspect every file inside a ZIP this large, and scan results can change; they are not a guarantee of safety.
 
-SHA-256 for `PortalCraft-2026-10-11b-with-wither-storm.zip`:
+SHA-256 for `PortalCraft-2026-10-13-with-story-mode.zip`:
 
 ```text
-e99138f9f4ae1f7adf3edf6c4db98fcba8ff4e13fdfaa641273946f35027fb8d
+d6188ade11c2d8961ae2bf405dc29f5dfae6d8f2c502ed8805508979d2f83501
 ```
 
 PortalCraft is a fan project and is not affiliated with Mojang, Microsoft, or Valve.
